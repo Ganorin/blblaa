@@ -1,1 +1,5 @@
 hallo bub
+
+ich schreib jetzt frech an dieselbe stelle code
+um zu sehen wie der merge funktioneirt
+ticket1234
